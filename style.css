@@ -103,7 +103,7 @@ main>div {
 }
 
 h1 {
-    font-size: 2.3em;
+    font-size: 2.4em;
     font-weight: 700;
     font-family: 'Fraunces', serif;
     line-height: 1em;
@@ -124,7 +124,7 @@ p {
 }
 
 #price {
-    font-size: 2.3em;
+    font-size: 2.4em;
     font-weight: 700;
     font-family: 'Fraunces', serif;
     color: var(--green);
